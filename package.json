@@ -1,0 +1,10 @@
+{
+  "name": "pix-pdf-generator",
+  "description": "Genera un pdf a partir de una url entregada por pix",
+  "version": "0.0.1",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "4.x",
+    "nodepdf": "1.x"
+  }
+}
