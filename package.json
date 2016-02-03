@@ -5,6 +5,5 @@
   "dependencies": {
     "body-parser": "^1.14.1",
     "express": "4.x",
-    "nodepdf": "1.x"
   }
 }
